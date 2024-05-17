@@ -22,7 +22,7 @@ The goal of this challenge is to estimate the death toll from a pandemic that sp
   The Gradient Boosting Regressor was selected because of its resilience against overfitting and capacity to manage intricate, non-linear data interactions. It creates a strong predictive model by the iterative combination of weak learners, making accurate predictions necessary for healthcare resource allocation.
 
 ## The Code for the Model:
-
+https://github.com/Mithun103/Shaastra-Techathon-AIML/blob/07bc79bd44d87d44c4476fdaa0d950acd3baa185/iit%20final%20report%20.ipynb
 ## Result:
   The final model proved to be useful in predicting pandemic-related mortality, exhibiting good predictive potential with low errors. Important factors that helped with planning and resource allocation included date, population density, confirmed cases, and cured patients. These factors also played critical roles in the projections.
  
